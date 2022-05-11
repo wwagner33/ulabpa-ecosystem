@@ -1,0 +1,24 @@
+{
+  "name": "ulabpa-ecosystem",
+  "version": "0.0.1",
+  "description": "Ubiquitous Lab for Practical Activities Software Ecosystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwagner33/ulabpa-ecosystem.git"
+  },
+  "keywords": [
+    "ubiquitous-lab",
+    "framework",
+    "lms"
+  ],
+  "author": "Wellington Wagner F. Sarmento,Patrícia de Sousa Paula,Paulo de Tarso Cavalcante Filho",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/wwagner33/ulabpa-ecosystem/issues"
+  },
+  "homepage": "https://github.com/wwagner33/ulabpa-ecosystem#readme"
+}
